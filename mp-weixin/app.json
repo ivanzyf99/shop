@@ -1,0 +1,101 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/index/indexfenlei",
+    "pages/me/me",
+    "pages/good/gooddetail",
+    "pages/shopcar/shopcar",
+    "pages/address/address",
+    "pages/address/addressmg",
+    "pages/login/register",
+    "pages/me/medetail",
+    "pages/bill/surebill",
+    "pages/bill/bill",
+    "pages/bill/billshop",
+    "pages/bill/billqs",
+    "pages/bill/billdetailshop",
+    "pages/bill/billdetailqs",
+    "pages/bill/billdetail",
+    "pages/bill/billservice",
+    "pages/notice/notice",
+    "pages/notice/noticedetail",
+    "pages/good/good",
+    "pages/good/goodmg",
+    "pages/favs/favs",
+    "pages/shops/shops",
+    "pages/shops/shopdetail",
+    "pages/brand/brand",
+    "pages/brand/brandgoods",
+    "pages/good/goodview",
+    "pages/chati/chati",
+    "pages/chati/huihua",
+    "pages/history/history",
+    "pages/posts/posts",
+    "pages/posts/postsdetail",
+    "pages/posts/postsmg",
+    "pages/posts/postslist",
+    "pages/youhuiquan/youhuiquan",
+    "pages/qianbao/qianbao",
+    "pages/qianbao/charge"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "titleNView": false,
+    "scrollIndicator": "none",
+    "navigationStyle": "custom",
+    "navigationBarRightButton": {
+      "hide": true
+    }
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#ff6037",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/images/tabbar/home-icon1.png",
+        "selectedIconPath": "static/images/tabbar/home-icon1-1.png"
+      },
+      {
+        "pagePath": "pages/index/indexfenlei",
+        "text": "分类",
+        "iconPath": "static/images/tabbar/home-icon2.png",
+        "selectedIconPath": "static/images/tabbar/home-icon2-2.png"
+      },
+      {
+        "pagePath": "pages/shopcar/shopcar",
+        "text": "购物车",
+        "iconPath": "static/images/tabbar/home-icon3.png",
+        "selectedIconPath": "static/images/tabbar/home-icon3-3.png"
+      },
+      {
+        "pagePath": "pages/bill/bill",
+        "text": "我的订单",
+        "iconPath": "static/images/tabbar/dingdanb.png",
+        "selectedIconPath": "static/images/tabbar/dingdanf.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "static/images/tabbar/home-icon4.png",
+        "selectedIconPath": "static/images/tabbar/home-icon4-4.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "申请获取您的位置"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation"
+  ],
+  "usingComponents": {}
+}

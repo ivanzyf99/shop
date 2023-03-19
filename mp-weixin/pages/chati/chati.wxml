@@ -1,0 +1,1 @@
+<view><u-navbar vue-id="6bc3f9c8-1" title="聊天" border="{{true}}" placeholder="{{true}}" autoBack="{{false}}" data-event-opts="{{[['^leftClick',[['goBack']]]]}}" bind:leftClick="__e" bind:__l="__l"></u-navbar><view class="svcontainer" enable-flex="{{true}}"><web-view src="{{chaturl}}"></web-view></view></view>

@@ -1,0 +1,17 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "u--form": "/node-modules/uview-ui/components/u--form/u--form",
+    "u-radio-group": "/node-modules/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/node-modules/uview-ui/components/u-radio/u-radio",
+    "u-form-item": "/node-modules/uview-ui/components/u-form-item/u-form-item",
+    "u--input": "/node-modules/uview-ui/components/u--input/u--input",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "tn-input": "/tuniao-ui/components/tn-input/tn-input",
+    "tn-rate": "/tuniao-ui/components/tn-rate/tn-rate",
+    "u--textarea": "/node-modules/uview-ui/components/u--textarea/u--textarea",
+    "u-gap": "/node-modules/uview-ui/components/u-gap/u-gap",
+    "tn-button": "/tuniao-ui/components/tn-button/tn-button"
+  }
+}

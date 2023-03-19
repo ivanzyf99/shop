@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tn-button": "/tuniao-ui/components/tn-button/tn-button",
+    "tn-verification-code": "/tuniao-ui/components/tn-verification-code/tn-verification-code"
+  }
+}

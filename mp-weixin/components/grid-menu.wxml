@@ -1,0 +1,1 @@
+<view><view class="gridlistctn"><block wx:for="{{dataList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['fatherFun',['$0'],[[['dataList','',index,'id']]]]]]]}}" class="gitem" bindtap="__e"><image src="{{fileUrl+item.img}}" mode="widthFix"></image><view>{{item.title}}</view></view></block></view></view>

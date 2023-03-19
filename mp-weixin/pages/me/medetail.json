@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-divider": "/node-modules/uview-ui/components/u-divider/u-divider",
+    "u-form-item": "/node-modules/uview-ui/components/u-form-item/u-form-item",
+    "u--input": "/node-modules/uview-ui/components/u--input/u--input",
+    "idea-upload": "/components/idea-upload/idea-upload"
+  }
+}
